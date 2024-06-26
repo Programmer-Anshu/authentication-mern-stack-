@@ -1,0 +1,12 @@
+{
+  "name": "otp-verification-mern-main",
+  "version": "1.0.0",
+  "description": "How to Build a Secure and Scalable Authentication System with Express js and MongoDB together With React js App?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
